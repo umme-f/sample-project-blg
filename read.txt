@@ -1,0 +1,8 @@
+my_project/
+│
+├── main.py
+│
+└── my_module/
+    ├── __init__.py
+    ├── data_processing.py
+    └── logging.py
